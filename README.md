@@ -4,7 +4,7 @@
 
 ### Carring out my experiments
 
-- 🌱 I’m currently learning about *Blockchain, FinTech*.
+- 🌱 I’m currently learning about *Java, Spring Boot*.
 - 👯 I’m looking forward to contribute in the *open source* community
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debjit-karmakar-69666721a/) 
 - 😄 Pronouns: *He/His*
