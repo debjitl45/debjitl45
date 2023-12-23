@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+swrif&color=%2324F720&multiline=true&height=60&lines=Loading...+;Debjits+Backyard.exe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+swrif&color=%2324F720&multiline=true&height=60&lines=Loading...+;Projects.exe)](https://git.io/typing-svg)
 
 ### Carring out my experiments
 
