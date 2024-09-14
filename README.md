@@ -12,6 +12,9 @@
 
 
 ![Debjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjitl45&show_icons=true&theme=radical)
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/debjitl45/debjitl45/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="debjitl45" />
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitl45&layout=compact&theme=radical)](https://github.com/debjitl45/github-readme-stats)
