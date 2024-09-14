@@ -12,7 +12,7 @@
 
 
 
-<h1>Contribution Graph</h1>
+<h1>Github Stats</h1>
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/debjitl45/debjitl45/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="debjitl45" />
 </p>
