@@ -6,7 +6,7 @@
     - 🔥 Get-Go: Eat, Sleep, Code, Repeat<br>
     - 🌟 Checkout my <a href="https://github.com/debjitl45?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 🤔 Ask me about: <b><i>Java,C++,Python or my projects</i></b><br>
-    - 📫 You can reach me on<b><a href="https://www.linkedin.com/in/debjitkarmakar/">Linkedin</a></b><br>
+    - 📫 You can reach me on<b><a href="https://www.linkedin.com/in/debjitkarmakar/"> Linkedin</a></b><br>
     - 💡 Currently I'm learning distributed systems<br>
     - 🔗 Following me, is <b><i>FREE</i></b>
 </p>
