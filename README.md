@@ -1,7 +1,6 @@
 # Welcome Visitor! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+swrif&color=%2324F720&multiline=true&height=60&lines=Cooking...+;Interesting_Stuffs)](https://git.io/typing-svg)
-     <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjitl45&show_icons=true&locale=en&layout=compact&theme=onedark" alt="debjitl45" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+swrif&color=%2324F720&multiline=true&height=60&lines=Cooking...)](https://git.io/typing-svg)
 <p align="left">
     - 🔥 Get-Go: Eat, Sleep, Code, Repeat<br>
     - 🌟 Checkout my <a href="https://github.com/debjitl45?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
